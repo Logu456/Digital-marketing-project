@@ -6,6 +6,6 @@ Team members:   Logeshvar M -au2020305005,
 Project: Brand name creation- created email ID and a Brand logo
 Brand name: THE NOMADS
 Category: Travel Agency
-Target Audience: All (Men, Women, Kids)
+Target Audience: Travellers(Men, Women, Kids)
 Email: thenomads.travellerspoint@gmail.com
-Logo Theme : A designed outdoor picture with a tagline -sky theme 
+Logo Theme: A designed outdoor picture with a tagline -sky theme 
